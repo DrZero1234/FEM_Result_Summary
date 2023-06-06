@@ -53,6 +53,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DrZero1234)
+- Frontend Mentor - [@DrZero1234](https://www.frontendmentor.io/profile/DrZero1234)
 - GitHub - [@DrZero1234](https://github.com/DrZero1234)
 
