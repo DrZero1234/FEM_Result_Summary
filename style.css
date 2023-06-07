@@ -36,10 +36,9 @@
 
     .container {
         min-height: 100vh;
-        display: flex;
+        display: grid;
         font-size: 18px;
-        justify-content: center;
-        align-items: center;
+        place-items: center;
     }
 
     .window-wrapper {
